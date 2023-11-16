@@ -16,6 +16,8 @@ This repository showcases a collection of small Python projects that I've develo
 8. [Pomodoro App](#pomodoro-app)
 9. [Flash Card App](#flash-card-app)
 10. [Birthday Wishes](#birthday-wishes)
+11. [Kanye Quotes](#kanye-quotes)
+12. [ISS Over Your Head](#iss-over-your-head)
 
 ## Snake Game
 
@@ -84,8 +86,22 @@ Learn and quiz yourself with this Flash Card App built in Python, incorporating 
 
 Send heartfelt birthday wishes with this console app in Python, utilizing smtplib and pandas. Schedule and automate the sending of birthday emails to make your loved ones feel special on their big day.
 
+<img src="./images/bday wishes.jpg" alt="FlashCard" width="300"/>
 <br>
 
+## Kanye Quotes
+
+Explore the wisdom and humor of Kanye West with a Python Tkinter app. A click of a button reveals a fresh Kanye quote for inspiration or amusement.
+
+<img src="./images/quotes.jpg" alt="FlashCard" width="300"/>
+<br>
+
+## ISS Over Your Head
+
+Never miss the International Space Station! This Python console app notifies you when the ISS is visible, ensuring you catch every orbit from your location.
+
+<img src="./images/iss.jpeg" alt="FlashCard" width="300"/>
+<br>
 
 
 
