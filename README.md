@@ -18,6 +18,7 @@ This repository showcases a collection of small Python projects that I've develo
 10. [Birthday Wishes](#birthday-wishes)
 11. [Kanye Quotes](#kanye-quotes)
 12. [ISS Over Your Head](#iss-over-your-head)
+13. [Maze Solver](#maze-solver)
 
 ## Snake Game
 
@@ -102,6 +103,14 @@ Never miss the International Space Station! This Python console app notifies you
 
 <img src="./images/iss.jpeg" alt="FlashCard" width="300"/>
 <br>
+
+## Maze Solver
+
+Navigate dynamic mazes generated on-the-fly with this Python and Tkinter app. Watch as it skillfully tackles the challenge, showcasing the prowess of Python algorithms in an engaging and visually appealing environment.
+
+<img src="./images/maze.gif" alt="FlashCard" width="300"/>
+<br>
+
 
 
 
